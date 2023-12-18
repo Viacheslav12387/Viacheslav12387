@@ -7,7 +7,7 @@
 Hello!  My name Slavik! Nice to meet you! 
 </p>
 
-# About me
+## About me
 
 During 2 years of studies, practice and running my own project, I gained basic knowledge as a Project Manager.
 Internship at home.pl (project management department) in Szczecin 2023, I gained knowledge and skills:
@@ -30,7 +30,7 @@ Cooperation with other departments to implement projects, monitoring progress (p
 
 
 
-# My experience 
+## My experience 
 
 1) 2023 - Internship at home.pl IT Project Manager;
 2) 2021 -  Worked on the charity project "Children are our future";
@@ -43,7 +43,7 @@ Summing up, I want to say that all my projects in which I worked managed to laun
 
 
 
-# Soft skills 
+## Soft skills 
 
 SOFT SKILLS
 - motivating others to work,
